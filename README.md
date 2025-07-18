@@ -1,4 +1,4 @@
-![logo](https://github.com/HAJ-AC/HAJ-AC/blob/main/Ca323pture.PNG)
+<!---------![logo](https://github.com/HAJ-AC/HAJ-AC/blob/main/Ca323pture.PNG)----->
 <h1 align="center">Hi 👋, I'm Abolfazl</h1>
 <h3 align="center">A passionate frontend developer backend developer from IRAN</h3>
 <img align="right" alt="sheikh python" width = "400" src ="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
